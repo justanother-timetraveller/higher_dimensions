@@ -1,0 +1,114 @@
+url for a video draft:
+https://youtu.be/l3bPbLZX-oY
+
+Transcript:
+Hi!
+
+With this video I would like to share some insights on higher dimensions. (This topic I have to say is extremely fascinating.)
+
+[Maybe](I'll start with a basic question: How we claim to understand something, especially such non-trivial topic? My answer is: having a model that is consonant with the reality! Hey, do we have, say 4-dimensional model at hand to play with? Hmm, well, we can use imagination to explore it's features carefully, step-by-step, assemble those in mind, and, if it appears consistent, even give it a light spin.
+Sure, the next sensible question is: "Can we build it? or Can such model make accurate predictions?" So, this the way our world is been engineered, isn't it? Idea, imagination, elaborate model, real-world model.)
+
+It explores dimensional features through analogies, which gives a good kick-off to imagination of a consistent, higher dimensional model.
+
+Here is a way to represent dimensions, which is the easiest to concieve for data-scientists, who often deal with multi-dimensional data (arrays and matrices).
+Imagine zero dimension, a dot, here represented by a red dice. We all know from math: any number to a power of 0 equals 1. Always. A perfect dot.
+Now we move to the 1st dimension, a line! In this dimension we have a size, which is called length.
+Here is an object of size 2, size 3, 4, 5, 6 or 7 it can change in any direction across the line.
+Moving to the 2nd dimension, increasing the size from 1 to 2, 3, 4.
+3d dimension: increasing the size up to 4. Now we have a nice 4x4x4 3-dimensional cube.
+
+Ok, let's simplify to the form of size: 2x2x2 size.
+Time to open up a higher dimension domain! The counter ensures the math holds perfectly true. How easy! 4-th dimension of size 2, size 3, 4, 5
+Similarly, a dimension higher up. And so, by varying the sizes in 4-th and 5-th dimensions we can cover an infinite area of the 5th dimension!
+6-th dimension, streching up the size of our object.
+
+Open up even higher dimension domain!
+7-th dimension of size, 8th and 9th dimensions each of size 2!
+Even higher domain of 12-th dimensions!
+At this point i'm recieving "not enough resources to visualize error". That's enough, then. We got the idea!
+
+Ok, those were constructs of cubes. In fact we can apply this thinking to arbitrary items around us.
+Here is a fun analogy, popular in kind of nerdy world. A unicorn - gorgeous creature from Heroes of Might and Magic III realm. A single individual. Increasing the number: 2, 3, 5 - a pack of unicorns. A dimension up - 2 packs of golden-maned unicorns! Higher up - a forest of packs of unicorns. A number of forests! How about several kingdom of forests? Further on - a blue marble with countries.
+You see, the hierarchy of micro and macro cosmos is infinite. Here is a classic video "A power of Ten":
+
+
+Unicorns:
+A gorgeous creature, she lives in a normal world of 3 dimensions. Let's imagine one more individual and consider him as a step up into 4-th dimension. Yes, yes, they are still in same dimension world, yet each have their own personal unique universe.
+
+4th dimension:
+- Now we have an object of size 5 in the 4th dimension!
+Ok, back to size two, and moving onto 5th dimension.
+
+
+
+Now, let's look at a specific principle. A principle of Hierarchy. Why it exits, their mechanism and some properties. Let's consider some perfect hierarchy, with predefined rule called "As above, so below" - a well known phrase derived from alchemy by Hermes Trismegistus, or even more widespread as pronounced by Jesus.
+
+1) Perfect hierarchy
+2) rule: "as above so below"
+
+
+Here is a simple perfect 9-d structure.
+Lowest in the hierarchy is the 3-d dimension. Those are the individuals.
+Next level is 6-d, with it's individuals highlighted in green.
+And a highest one, a single 9-dimensional individual, with previous levels as our constituents.
+Here we are, ordinary 9th-dimensional super-beings looking at this object. We can move it: sideways, up and down. We can even grow it somehow. Yet, since we are so ordinary, lower domains are not immediately available for us. We probably can ask them to move. Outwards, inwards. Or change in size.
+We can notice any of their commotions affect our shape.
+Getting to a lower level, small 3-d cubes. They can decide to move outwards. Or change in size.
+See how lower domains affect our shape with ever increasing magnitude.
+How about other dimensions? For instance, color? Even if our example looks simple, the number of dimensions and constructed hierarchies are, in fact, innumerable.
+
+
+Here is such principle referred to by Buddha 2.5k years ago.
+A verse from The Diamond Sutra with his well-known analogy "If there were as many Ganges
+Rivers as the grains of sand in the Ganges, wouldn’t the amount
+of sand contained in all those Ganges Rivers be great?” A question of innumerable concieved world systems: ever increasing hierarchies, precision and knowledge as time goes forward. And Buddha actually gives answers to such questions.
+
+By the way, this is Kwan Yin depicted by Zeng Hao. Incredibly beautiful art.
+
+
+Okay, those were just representations.
+What about real higher dimensions? Can we imagine it?
+Carl Sagan in his video on 4-th dimension gives a perfect context:
+
+Ok, how could a flat square think of 3-d dimension?
+As a projection!
+How can we think of the 4-th dimension?
+As a projection, similarly extruding an object.
+Here is another projection, a perspective view.
+A perfect 4 dimensional cube, a Tesseract.
+
+Ok...thats stuff gets complex for us, ordinary 3-d people. How can we get a feel of higher dimensions?
+Through Virtual Reality.
+Albert Hwang in his video displays how VR allows to play with the Tesseract projection:
+Ok, cube, extruded to the 4-th dimension. All vertices are connected. And we can rotate imaginary tesseract in his dimension! A cube - a valid perfect shadow. It is very accurate model, in a sense, that 4 dimensional object can manifest itself as a hovering, intangible hologram of an ever changing form.
+
+And here is Carl Sagan transition the 4-th dimension:
+
+We can imagine if a Tesseract moves just slightly in his 4-th dimension, an object changes it's shape out of the blue!
+
+What is this 4-th dimension anyway?
+Is it time? We can think of it as time, as moving sculptures for example, as in this short cctv documentary:
+
+Or presented as spatial dimension?
+Here is a Miegakure game, which allows to play and understand some aspects of such dimension:
+
+Yes, ofcourse, the Wolrd looks discreet for this Samurai, maybe he is just making steps of 10 years each. Would it be so easy for him to go through the Great China Wall then?
+
+
+
+Sources:
+4th Dimension Carl Sagan: https://www.youtube.com/watch?v=N0WjV6MmCyM&t
+Motion sculptures: https://vimeo.com/69948148
+VR about 4th dimension: https://youtu.be/S-yRYmdsnGs
+Walking through the walls via 4th dimension: https://youtu.be/9yW--eQaA2I
+Perfect shapes in Higher Dimensions: https://www.youtube.com/watch?v=2s4TqVAbfz4
+Carl Sagan Hindu Cosmology https://www.youtube.com/watch?v=SgVfQ45jY6w
+
+
+Some personal marks...
+On the hierarchy:
+Machines are perfectly hierarchical creatures, that is they follow the orders from above with no justification of the consequences, machines are tools. They are moved by a reason: there is always exact and precise "why" that determines their action.
+On the contrary human has the passions, desires, absolute free will, a choice. Humans are playful, curious and can marvel on the beauty.
+
+Carl Sagan's analogy is beautiful and vivid. Yet, if you think about it, the Apple would not be able to enter a 2d plane (even if she decided to cut herself in two to manifest the cross-section, which Apple would do such a thing?). And the little square would not be able to see the guest from the higher dimension, it would not be able to see it's shadow either. How can 2d creature perceive a 3d projection then? It would happen through some phenomenal feelings: like temperature variation, vibrations, substance change in certain areas - all across the area where the higher dimension creature is descending.
